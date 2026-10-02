@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sillage</title>
+    <link>https://github.com/gambidrissi-dev/Sillage-Share</link>
+    <description>Mises à jour de Sillage</description>
+    <item>
+      <title>Version 1.4.1</title>
+      <description><![CDATA[
+<h3>1.4.1 : page d'accueil sans barre de commande superposée</h3>
+<p>- Au lancement sans onglet, la page d'accueil sert de départ (plus de barre de commande imposée qui masquait le texte et le titre « Favoris ») - Champ de recherche intégré à la page d'accueil (ouvre la barre de commande) - Voile derrière la barre de commande pour qu'elle se détache de la page</p>
+      ]]></description>
+      <pubDate>Fri, 02 Oct 2026 14:45:38 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Sillage-Share/releases/download/v1.4.1/Sillage-1.4.1.zip"
+                 sparkle:edSignature="wZ4+ByDYWGtpmjstN7JJw7OYt5FYCUrIBsUtgLOk9julKYK7FqdSoz0GsTuBZGI8m6LvRW5QUzt+eDx7S5CYCg=="
+                 length="2456859"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
