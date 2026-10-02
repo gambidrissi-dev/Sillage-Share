@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/Sillage-Share</link>
     <description>Mises à jour de Sillage</description>
     <item>
+      <title>Version 1.4.2</title>
+      <description><![CDATA[
+<h3>Nouvelle clé publique Sparkle : l'ancienne clé privée est perdue</h3>
+      ]]></description>
+      <pubDate>Fri, 02 Oct 2026 22:44:58 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Sillage-Share/releases/download/v1.4.2/Sillage-1.4.2.zip"
+                 sparkle:edSignature="mAdW0jMssrKyCM9KuQXuWrQdqHCvQXSkHm+JHc39Em8p8ri9hef5vMYuTivmehn/1tAXA84xnVn/pYWrro9zAg=="
+                 length="2492834"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.4.1</title>
       <description><![CDATA[
 <h3>1.4.1 : page d'accueil sans barre de commande superposée</h3>
